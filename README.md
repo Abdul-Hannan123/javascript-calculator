@@ -19,3 +19,11 @@ A modern and responsive Calculator App built using HTML, CSS, and JavaScript. Th
 - 📱 Responsive design for different screen sizes
 
 ---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
