@@ -35,16 +35,9 @@ This project demonstrates my understanding of DOM manipulation, event handling, 
 
 ---
 
-## 🔗 Live Demo
-
-(Add your live demo link here if hosted on GitHub Pages)
-
----
-
 ## 📸 Screenshot
 
 <img width="960" height="435" alt="result" src="https://github.com/user-attachments/assets/be89d9a5-4c97-4868-a187-914f62f42832" />
-
 
 ---
 
