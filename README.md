@@ -2,7 +2,7 @@
 # 🧮 Responsive JavaScript Calculator
 
 A fully functional and responsive calculator built using **HTML, CSS, and JavaScript**.  
-This project demonstrates my understanding of DOM manipulation, event handling, and responsive UI design.
+This project demonstrates my understanding of DOM manipulation, event handling, and responsive design.
 
 ---
 
