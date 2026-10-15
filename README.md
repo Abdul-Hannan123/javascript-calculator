@@ -46,3 +46,17 @@ A modern and responsive Calculator App built using HTML, CSS, and JavaScript. Th
 7. Use the decimal point to perform decimal calculations.
 
 ---
+
+## 🎯 What I Learned
+
+-  DOM manipulation
+-  JavaScript event handling
+-  Arithmetic operations
+-  Handling user input
+-  Updating HTML elements dynamically
+-  JavaScript functions
+-  CSS Grid and Flexbox
+-  Neumorphic UI design
+-  Responsive web design
+
+---
