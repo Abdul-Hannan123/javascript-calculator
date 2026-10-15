@@ -60,3 +60,14 @@ A modern and responsive Calculator App built using HTML, CSS, and JavaScript. Th
 -  Responsive web design
 
 ---
+
+## 🔮 Future Improvements
+
+-  Keyboard input support
+-  Calculation history
+-  Improved mobile responsiveness
+-  Dark and light themes
+-  Scientific calculator functions
+-  Better error handling
+
+---
