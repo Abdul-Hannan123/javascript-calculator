@@ -30,4 +30,4 @@ A modern and responsive Calculator App built using HTML, CSS, and JavaScript. Th
 
 ## 📸 Screenshot
 
-![JavaScript Calculator](screenshots/calculator.png)
+<img width="960" height="435" alt="result" src="https://github.com/user-attachments/assets/c7f65604-5abc-4e9f-b70d-d9db3438c176" />
