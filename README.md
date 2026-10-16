@@ -74,7 +74,7 @@ A modern and responsive Calculator App built using HTML, CSS, and JavaScript. Th
 
 ## 👨‍💻 Author
 
-Abdul Hannan | BSCS student
+Abdul Hannan | BSCS student | Frontend Developer 
 
 Built with HTML, CSS & JavaScript.
 
