@@ -24,7 +24,7 @@ A modern and responsive Calculator App built using HTML, CSS, and JavaScript. Th
 
 - HTML5
 - CSS3
-- JavaScript
+- Vanilla JavaScript
 
 ---
 
