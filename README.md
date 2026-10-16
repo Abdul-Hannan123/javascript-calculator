@@ -71,3 +71,13 @@ A modern and responsive Calculator App built using HTML, CSS, and JavaScript. Th
 -  Better error handling
 
 ---
+
+## 👨‍💻 Author
+
+Abdul Hannan | BSCS student
+
+Built with HTML, CSS & JavaScript.
+
+⭐ If you like this project, consider giving the repository a star!
+
+---
