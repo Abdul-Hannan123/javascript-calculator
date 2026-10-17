@@ -68,7 +68,7 @@ A modern and responsive Calculator App built using HTML, CSS, and JavaScript. Th
 -  Improved mobile responsiveness
 -  Dark and light themes
 -  Scientific calculator functions
--  Better error handling
+- 
 
 ---
 
